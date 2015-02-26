@@ -16,6 +16,7 @@ import org.jespxml.modelo.Tag;
 public class XMLWriter {
           
 	private String bug_nombre = "";
+	private int hola = 0;
           
 	public void writeXML(List<String> bug) {
 		try {
