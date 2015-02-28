@@ -1,4 +1,7 @@
+#Archivos
 .classpath
 .project
+
+#Directorios
 /bin/    
 /.settings
