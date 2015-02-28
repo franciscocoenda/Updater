@@ -7,6 +7,7 @@ public class Clase {
 
 	public void obtenerElementos (String elementos){
 		cadena1 = elementos;
+		cadena2 = elementos + "    ";
 	}
 
 }
