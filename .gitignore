@@ -1,1 +1,7 @@
-#Archivos Sueltos
+#Archivos
+.classpath
+.project
+
+#Carpetas
+/bin/    
+/.settings
