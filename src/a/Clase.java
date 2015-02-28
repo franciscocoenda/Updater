@@ -2,6 +2,6 @@ package a;
 
 public class Clase {
 	
-	private String cadena = "";
-	
+	private String cadena1 = "";
+	private String cadena2 = "";
 }
