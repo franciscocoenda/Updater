@@ -1,5 +1,7 @@
+#Archivos Sueltos
 .classpath
 .project
 
+#Carpetas
 /bin/    
 /.settings
