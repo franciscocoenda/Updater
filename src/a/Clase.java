@@ -11,6 +11,5 @@ public class Clase {
 
 	private String calculador(){
 		return cadena1 + cadena2;
-	}
-	
+	}	
 }
