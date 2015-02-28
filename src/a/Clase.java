@@ -7,9 +7,5 @@ public class Clase {
 	public void obtenerElementos (String elementos){
 		cadena1 = elementos;
 	}
-
-	private String calculador(){
-		return cadena1 + " Hola";
-	}
 	
 }
